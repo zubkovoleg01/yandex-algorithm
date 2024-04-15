@@ -4,7 +4,7 @@ ________________________________________________________
 
 Possible task statuses:
 
-The problem is solved and all the tests are passed - 🟢.
+The task is solved and all the tests are passed - 🟢.
 
 The task has been solved, but not all the tests have been passed - 🟡.
 
